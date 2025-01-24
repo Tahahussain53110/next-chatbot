@@ -46,8 +46,8 @@ Ensure you have the following before starting:
 ## Installation
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/tahahussain53110/nextjs-openai.git
-   cd nextjs-openai
+   git clone https://github.com/tahahussain53110/next-chatbot.git
+   cd next-chatbot
    ```
 2. Install Dependencies:
    - Using npm:
@@ -123,8 +123,8 @@ We welcome contributions! Follow these steps:
 1. **Fork the Repository**: Click the "Fork" button at the top-right corner of the GitHub page.
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/tahahussain53110/nextjs-openai.git
-   cd nextjs-openai
+   git clone https://github.com/tahahussain53110/next-chatbot.git
+   cd next-chatbot
    ```
 3. **Create a New Branch**:
    ```bash
